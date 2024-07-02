@@ -13,13 +13,13 @@ global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/Ednut001/Ednut-Md";
+global.github = process.env.GITHUB || "https://github.com/chisayantando/Sub-ZeroV1";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaZAY2P4yltOvNaegY2w";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaZAY2P4yltOvNaegY2w";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d29baa62079de1f3e9ba7.jpg,https://telegra.ph/file/7aa0025c70b7b5040d3d0.jpg,https://telegra.ph/file/06265ce5a7956b4799ba0.jpg,";
-global.devs = "2348102487241";
-global.sudo = process.env.SUDO || "237680255347";
-global.owner = process.env.OWNER_NUMBER || "2348102487241";
+global.devs = "263715275611";
+global.sudo = process.env.SUDO || "263715275611";
+global.owner = process.env.OWNER_NUMBER || "263715275611";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || '.',
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "©Ednut-Md",
-  author: process.env.PACK_AUTHER || "🕊",
-  packname: process.env.PACK_NAME || "Ednut-Md",
-  botname: process.env.BOT_NAME || "Ednut-Md",
-  ownername: process.env.OWNER_NAME || "Ednut",
+  caption: process.env.CAPTION || "Sub-ZeroV1",
+  author: process.env.PACK_AUTHER || "💙",
+  packname: process.env.PACK_NAME || "Sub-ZeroV1",
+  botname: process.env.BOT_NAME || "Sub-ZeroV1",
+  ownername: process.env.OWNER_NAME || "Sub-ZeroV1",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
