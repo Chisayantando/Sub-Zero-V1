@@ -2,7 +2,7 @@ const bot = require(__dirname + '/lib/amd')
 const { VERSION } = require(__dirname + '/config')
 
 const start = async () => {
-    Debug.info(`Starting Ednut-Md ${VERSION}`)
+    Debug.info(`Starting Sub-ZeroV1 ${VERSION}`)
   try {
     await bot.init()
     //bot.logger.info('⏳ Database syncing!')
