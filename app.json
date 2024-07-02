@@ -1,15 +1,15 @@
 {
-    "name": "Ednut-Md",
+    "name": "Sub-ZeroV1",
     "description": "Simple WhatsApp Bot",
     "logo": "https://telegra.ph/file/d29baa62079de1f3e9ba7.jpg",
-    "keywords": ["Ednut-Md", "Ednut", "Ednut-Md bot"],
+    "keywords": ["Sub-ZeroV1", "Sub-ZeroV1", "Sub-ZeroV1 bot"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for owner",
-        "value": "Ednut",
+        "value": "Mr Ntando ofc",
         "required": true
       },
       "WELCOME": {
@@ -28,8 +28,8 @@
       },
       "BOT_NAME": {
         "description": "Bot name here.",
-        "required": false,
-        "value": "Ednut-Md"
+        "required": true,
+        "value": "Sub-ZeroV1"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -92,7 +92,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2348102487241"
+        "value": "263715275611"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -104,7 +104,7 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Ednut-Md",
+        "value": "Sub-ZeroV1",
         "required": false
       },
       "PACK_AUTHER": {
@@ -118,4 +118,4 @@
       { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
       { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
     ]
-  }
+}
