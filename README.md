@@ -1,23 +1,23 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaZAY2P4yltOvNaegY2w">
-    <img alt="Ednut" height="300" src="https://telegra.ph/file/1fce7dd9748d187fda061.jpg">
-    <h1 align="center">EDNUT-MD</h1>
+    <img alt="Ntando" height="300" src="https://telegra.ph/file/1fce7dd9748d187fda061.jpg">
+    <h1 align="center">Sub-ZeroV1</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Ednut001"><img title="Author" src="https://img.shields.io/badge/Ednut001-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZAY2P4yltOvNaegY2w"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/2348102487241"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/chisayantandoo1"><img title="Author" src="https://img.shields.io/badge/Chisayantandoo-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZAY2P4yltOvNaegY2w"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/263715275611"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://chat.whatsapp.com/EgiP4a7pC6kCNXkRpcC1xA"><img title="Author" src="https://img.shields.io/badge/SUPPORT GC-black?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://t.me/@ednut_x"><img    title="Author" src="https://img.shields.io/badge/CHAT ME-black?style=for-the-badge&logo=Telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Ednut001?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Ednut001?label=Followers&style=social"></a>
-<a href="https://github.com/Ednut001/Ednut-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ednut001/Ednut-Md?&style=social"></a>
-<a href="https://github.com/Ednut001/Ednut-Md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Ednut001/Ednut-Md?style=social"></a>
-<a href="https://github.com/Ednut001/Ednut-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ednut001/Ednut-Md?label=Watching&style=social"></a>
+<a href="https://github.com/Chisayantandoo?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Chisayantandoo?label=Followers&style=social"></a>
+<a href="https://github.com/chisayantandoo/Sub-ZeroV1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Chisayantandoo/Sub-ZeroV1?&style=social"></a>
+<a href="https://github.com/Chisayantandoo/Sub-ZeroV1/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Chisayantandoo/Sub-ZeroV1?style=social"></a>
+<a href="https://github.com/Chisayantandoo/Sub-ZeroV1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Chisayantandoo/Sub-ZeroV1?label=Watching&style=social"></a>
 </p>
 
 ####  
-EDNUT-MD- Simple Multi Device whatsapp bot.
+Sub-ZeroV1- Simple Multi Device whatsapp bot.
 
 ***
 
@@ -25,7 +25,7 @@ EDNUT-MD- Simple Multi Device whatsapp bot.
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Ednut001/Ednut-Md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Chisayantandoo/Sub-ZeroV1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -61,7 +61,7 @@ Make Sure Run this on a Heroku Teams Not Personal Heroku, I recommed using it Ec
 
 2. Deploy on Koyeb
    <br>
-   <p align="center"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Ednut001/Ednut-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2348102487241&env[MONGODB_URI]&&env[OWNER_NAME]=Ednut&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Ednut+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=Whatsappbot&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Lagos&name=Ednut-md&env[KOYEB_NAME]=Ednut-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/1fce7dd9748d187fda061.jpg"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="380" height="38.45""/></a></p>
+   <p align="center"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Chisayantandoo/Sub-ZeroV1&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=263715275611&env[MONGODB_URI]&&env[OWNER_NAME]=Mr Ntando ofc&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Sub-ZeroV1+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=Whatsappbot&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Lagos&name=Sub-ZeroV1&env[KOYEB_NAME]=Sub-ZeroV1&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/1fce7dd9748d187fda061.jpg"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="380" height="38.45""/></a></p>
 
 #### DEPLOY TO RAILWAY
 
@@ -78,7 +78,7 @@ Make Sure Run this on a Heroku Teams Not Personal Heroku, I recommed using it Ec
 - and you're good to go.
   
 
-- Star ⭐ the repo if you like EDNUT-MD.
+- Star ⭐ the repo if you like Sub-ZeroV1
 
    
 ## WARNING
