@@ -61,13 +61,13 @@ _Termux Setup not recommended_
 
 <table>
   <tr>
-    <td>Mr Ntando ofc</td>
-    <td>, Virus 🦠 Mbaya</td>
+    <td>chisayantando</td>
+    <td>virusian</td>
     
   </tr>
   <tr>
-    <td><a href="https://github.com/Mr Ntando ofc"><img src="https://avatars.githubusercontent.com/u/263715275611?v=4" width="1
-<td><a href="https://github.com/Virus 🦠-Mbaya"><img src="https://avatars.githubusercontent.com/u/254 748 721079v=4" width
+    <td><a href="https://github.com/chisayantando"><img src="https://avatars.githubusercontent.com/u/263715275611?v=4" width="1
+<td><a href="https://github.com/Virusian"><img src="https://avatars.githubusercontent.com/u/254 748 721079v=4" width
   </tr>
 </table>
 
