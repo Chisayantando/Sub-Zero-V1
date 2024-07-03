@@ -1,121 +1,124 @@
 {
-    "name": "Sub-ZeroV1",
-    "description": "Simple WhatsApp Bot",
-    "logo": "https://telegra.ph/file/d29baa62079de1f3e9ba7.jpg",
-    "keywords": ["Sub-ZeroV1", "Sub-ZeroV1", "Sub-ZeroV1 bot"],
-    "success_url": "/",
-    "stack": "container",
-  
-    "env": {
-      "OWNER_NAME": {
-        "description": "Name for owner",
-        "value": "Mr Ntando ofc",
-        "required": true
-      },
-      "WELCOME": {
-        "description": "put 'false' or 'true' to enable & disable WELCOME ",
-        "value": "false",
-        "required": false
-      },
-      "GOODBYE": {
-        "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-        "value": "false",
-        "required": false
-      },
-      "MENU": {
-        "description": "choose 1, 2, 3",
-        "value": "1"
-      },
-      "BOT_NAME": {
-        "description": "Bot name here.",
-        "required": true,
-        "value": "Sub-ZeroV1"
-      },
-      "TZ": {
-        "description": "Put TIME_ZONE according to your location",
-        "required": false,
-        "value": "Africa/Lagos"
-      },
-      "READ_COMMAND": {
-        "description": " Read bot cmds",
-        "required": false,
-        "value": "false"
-      },
-      "WARN_COUNT": {
-        "description": " Warn count for users to kick/block when warn limit exceed!",
-        "required": false,
-        "value": "3"
-      },
-      "AUTO_SAVE_STATUS": {
-        "description": " Auto save whatsapp status",
-        "required": false,
-        "value": "false"
-      },
-      "HEROKU_API_KEY": {
-        "description": "Put Your Heroku Api Key Here",
-        "value": "",
-        "required": true
-      },
-      "HEROKU_APP_NAME": {
-        "description": "Put Your Heroku App Name Here",
-        "value": "",
-        "required": true
-      },
-      "WAPRESENCE": {
-        "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
-        "required": false,
-        "value": "unavailable"
-      },
-      "AUTO_READ_STATUS": {
-        "description": "Fill the value true if you want bot view your Statuses.",
-        "required": false,
-        "value": "false"
-      },
-      "MSGS_IN_LOG": {
-        "description": "Fill the value -true- if you want to see Messages in logs.",
-        "required": false,
-        "value": "true"
-      },
-      "READ_MESSAGE": {
-        "description": "Fill the value true if you want bot to read all messages.",
-        "required": false,
-        "value": "false"
-      },
-      "DISABLE_PM": {
-        "description": "Make it 'false' if you wanna run bot in your pm (if MODE is Public)",
-        "value": "false",
-        "required": false
-      },
-      "PREFIX": {
-        "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-        "value": "."
-      },
-      "OWNER_NUMBER": {
-        "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "263715275611"
-      },
-      "SESSION_ID": {
-        "description": "put your SESSION_ID here.",
-        "value": ""
-      },
-      "MODE": {
-        "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "public"
-      },
-      "PACK_NAME": {
-        "description": "Put Sticker Pack_Name.",
-        "value": "Sub-ZeroV1",
-        "required": false
-      },
-      "PACK_AUTHER": {
-        "description": "Put Sticker Author_Name.",
-        "value": "🔥",
-        "required": false
-      }
+  "name":"TKM-bot",
+  "description":"Deploy your TKM bot now.Brought to you by the Cod3Uchiha.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "keywords":["bot","node","baileys","whatsapp"],
+  "logo":"https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg",
+  "repository":"https://github.com/Cod3Uchiha/TKM-bot",
+  "succes_url":"/",
+  "stack":"container",
+  "env":{
+    "PREFIX":
+    {
+      "description":"choose your prefix of bot",
+      "value":".",
+      "required":true
     },
-    "addons": [{ "plan": "heroku-postgresql:essential-0" }],
-    "buildpacks": [
-      { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
-      { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
-    ]
-}
+    "AUTO_READ_STATUS":
+    {
+      "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "value":"yes",
+      "required":false
+    }, "AUTO_DOWNLOAD_STATUS":
+    {
+      "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
+      "value":"no",
+      "required":false
+    }
+    ,
+     "PM_PERMIT" :
+     {
+      "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
+      "value":"no",
+      "required":false
+    }
+    ,
+    "BOT_NAME" : {
+       
+      "description":"put A name for your bot",
+      "value":"TKM bot",
+      "required":false
+
+    } ,
+     "BOT_MENU_LINKS" : {
+    
+      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
+      "value":"https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg",
+      "required":false
+       
+     },
+    "PUBLIC_MODE":
+    {
+      "description":"type yes to put your bot on public mode or no to put it on private mod",
+      "value":"yes",
+      "required":false
+    }
+	,
+    "HEROKU_APY_KEY": {
+    "description": "insert your heroku api-key ",
+     "value":"",
+	"required" :true
+    },
+  "HEROKU_APP_NAME": {
+    "description": "insert your heroku APP NAME (the name you wrote at the beginning)",
+     "value":"",
+	"required" :true
+    }  
+	  ,
+    "SESSION_ID":
+    {
+      "description":"put your session ID, the code you received after pairing code",   
+      "value":"",
+      "required":true
+      
+    },
+    "OWNER_NAME":
+    {
+    
+    "desc": "Your Name",
+    "required": false,
+    "value": "Cod3Uchiha"
+  },
+    "NUMERO_OWNER":
+  {
+    
+    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "required":false,
+    "value": "263775571820,263785028126"
+  },
+    "WARN_COUNT":
+  {
+    "desc": "this is the limit of warn for warning commandes",
+    "required": false,
+    "value": "3"
+  },
+  "STARTING_BOT_MESSAGE":
+  {
+    "description": "if you don't want startting-bot-message put no else put yes",
+    "required": true,
+    "value": "yes"
+  },
+  "PRESENCE":{
+    "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
+    "value":"",  
+    "required": false
+  },
+  "ANTI_DELETE_MESSAGE" : {
+    "description": "if you want to enable anti delete message put yes else put no",
+    "value": "no",
+    "required": false
+  }
+  },
+
+  "formation": {
+		"worker": {
+			"quantity": 1,
+			"size": "basic"
+		}
+	},
+
+  "addons":[
+    {
+      "plan":"heroku-postgresql"
+    }
+  ]
+     }
