@@ -67,17 +67,3 @@ _Termux Setup not recommended_
   </tr>
   <tr>
     <td><a href="https://github.com/chisayantando"><img src="https://avatars.githubusercontent.com/u/263715275611?v=4" width="1
-<td><a href="https://github.com/Virusian"><img src="https://avatars.githubusercontent.com/u/254 748 721079v=4" width
-  </tr>
-</table>
-
-**contributors**
-
-```v
-
-```
-Vurusian 
-```
-`
-
-* [🧑‍💻 Follow The Sub-ZeroV1 whatsapp Channel🧑‍💻](https://whatsapp.com/channel/https://whatsapp.com/channel/0029Vai9YZwC6ZvcD3EcVP2v)
