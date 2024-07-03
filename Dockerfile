@@ -1,15 +1,24 @@
-FROM quay.io/taira_makino/taira_tech:latest
+FROM node:lts-buster
 
-RUN git clone https://github.com/Ednut001/Ednut-md /root/Anonphoenix007
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  npm i pm2 -g && \
+  rm -rf /var/lib/apt/lists/*
+  
+RUN git clone https://github.com/Cod3Uchiha/TKM-bot /root/TKM-bot
+WORKDIR /root/TKM-bot/
 
-# Clear npm cache and remove node_modules directories
-RUN npm cache clean --force
-RUN rm -rf /root/Anonphoenix007/node_modules
 
-# Install dependencies
-WORKDIR /root/Anonphoenix007
-RUN npm install
+COPY package.json .
+RUN npm install pm2 -g
+RUN npm install --legacy-peer-deps
 
-# Add additional Steps To Run...
-EXPOSE 3000
-CMD ["npm","start" ]
+COPY . .
+
+EXPOSE 5000
+
+CMD ["node", "index.js"]
