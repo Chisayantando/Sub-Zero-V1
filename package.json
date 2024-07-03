@@ -1,5 +1,5 @@
 {
-  "name": "TKM bot",
+  "name": "Sub-ZeroV1",
   "version": "1",
   "description": "",
   "main": "index.js",
@@ -15,12 +15,12 @@
     "TKM-BOT",
     "whatsapp",
     "whatsapp-bot",
-    "Cod3Uchiha",
-    "Manjiro-Sano-md",
-    "Tkm bot",
-    "CodeUchiha"
+    "Mr Ntando ofc",
+    "Mr Ntando ofc",
+    "Sub-zerov1",
+    "Mr Ntando ofc"
   ],
-  "author": "Cod3Uchiha",
+  "author": "Mr Ntando ofc",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
