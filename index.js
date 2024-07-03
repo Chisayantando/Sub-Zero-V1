@@ -914,10 +914,11 @@ ${metadata.desc}`;
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╔───⬡
-┃ ┃⬡TKM bot⬡┃
+┃ ┃⬡Sub-ZeroV1⬡┃
 ┃    Prefix : [ ${prefixe} ]
 ┃    Mode :${md}
-┃    Total Commandes : ${evt.cm.length}︎
+┃    Total Commandes : ${evt.cm.length}
+ ︎    Religion: Christianity
 ╚─────────────────···▸▸
 
 ╔───⬡
@@ -926,10 +927,10 @@ ${metadata.desc}`;
  report any. problems to the devs:)
  Thanks for supporting
  this project
- property of Cod3Uchiha
- property of Takudzwa Mlambo
- © Cod3Uchiha 
- © Takudzwa Mlambo
+ property of Mr Ntando ofc
+ property of Ntandoyenkosi Chisaya
+ © Mr Ntando ofc
+ © Ntandoyenkosi Chisaya
 ╚─────────────────···▸▸`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
