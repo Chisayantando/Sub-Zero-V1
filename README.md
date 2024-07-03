@@ -73,11 +73,11 @@ _Termux Setup not recommended_
 
 **contributors**
 
+```v
+
 ```
-Lazak28•fixed Heroku ban
+Virusian
 ```
-```
-Beltahmd•fixed sleeping problem
-```
+`
 
 * [🧑‍💻 Follow The Sub-ZeroV1 whatsapp Channel🧑‍💻](https://whatsapp.com/channel/https://whatsapp.com/channel/0029Vai9YZwC6ZvcD3EcVP2v)
