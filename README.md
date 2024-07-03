@@ -76,7 +76,7 @@ _Termux Setup not recommended_
 ```v
 
 ```
-Virusian
+Vurusian 
 ```
 `
 
