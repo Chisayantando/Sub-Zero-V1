@@ -28,7 +28,7 @@
 
     
    
-## 🦠Virusi-Mbaya-Md Deployment Methods
+## 💙 Sub-ZeroV1 💙-Md Deployment Methods
 ---
 1.  **Fork, [`CLICK HERE`](https://github.com/Vurusian/Virusi-Mbaya-Md/fork) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY    [`PAIRING CODE`](https://peqcod-d70aeb8502a2.herokuapp.com/pair)
