@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaZAY2P4yltOvNaegY2w">
-    <img alt="Sub-ZeroV1" height="300" src="https://telegra.ph/file/1fce7dd9748d187fda061.jpg">
+    <img alt="Sub-ZeroV1" height="300" src="[https://telegra.ph/file/1fce7dd9748d187fda061.jpg](https://telegra.ph/file/5e100fdeb6b15b6d40bf7.jpg)">
     <h1 align="center">Sub-ZeroV1</h1>
   </a>
 </p>
